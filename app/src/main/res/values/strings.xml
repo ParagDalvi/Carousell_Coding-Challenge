@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Carousell News</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="recent">Recent</string>
+    <string name="popular">Popular</string>
+    <string name="more">More</string>
+</resources>
